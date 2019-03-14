@@ -39,9 +39,6 @@ img {
 }
 
  /* Titles */
-.container {
- padding: 2% 10% 1%;
-}
 .container-fluid {
   padding: 2% 10%;
 }
@@ -123,6 +120,7 @@ hr {
 }
 .social-icon {
   margin: 20px 15px;
+  color: #fff;
 }
 .social-icon:hover{
   color: #8f8f8f;
